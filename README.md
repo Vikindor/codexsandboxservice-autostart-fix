@@ -1,5 +1,5 @@
 <h1 align="center">
-Codex Sandbox Service Autostart Fix
+CodexSandboxService.OpenAI.Codex Autostart Fix
 </h1>
 
 A PowerShell script that stops the Windows Codex sandbox service process and switches its startup type to **Manual**.
